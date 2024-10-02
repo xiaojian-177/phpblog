@@ -3,5 +3,5 @@
 <?php
 $cookie = $_COOKIE['loginuser'];
 echo $cookie . "，你好<br>";
-echo <a href="changep.php">更改密码</a>;
+echo "<a href="changep.php">更改密码</a>";
 ?>
